@@ -4,4 +4,6 @@ version = "0.1.0"
 description = "Test project using FastAPI"
 readme = "README.md"
 requires-python = ">=3.9"
-dependencies = ["fastapi[standar,standard]>=0.116.1"]
+dependencies = [
+    "fastapi[standar,standard]>=0.116.1",
+]
