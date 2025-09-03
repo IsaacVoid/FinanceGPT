@@ -1,9 +1,9 @@
 """
 Este archivo convierte el directori en donde se encuenta en un paquete de Python.
 Esto permite:
-    - Importat modilos del directorio usando la notacion de puntos
+    - Importat modulos del directorio usando la notacion de puntos
         (from app.routers import #####)
-    -Hacer que Python reconozca que ese deirectorio contien còdifo reutilzable
+    -Hacer que Python reconozca que ese directorio contiene código reutilzable
         y organizado
     - definir configuraciones de inicializacion si se necesita, pero también puede
         estar vacio.
